@@ -7,9 +7,9 @@
 }
 
 main {
-  height: calc(100% - 80px);
+  height: calc(100% - 120px);
+  min-height: 780px;
   background-color: #1E2C3B;
-  padding: 40px 20%;
 }
 
 h2 {
